@@ -1,7 +1,6 @@
 {
   "homepage": "https://NurlybekSulaimanov.github.io/my-app",
-  "name": "react-todo-list",
-  "name": "react-todo-list",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
